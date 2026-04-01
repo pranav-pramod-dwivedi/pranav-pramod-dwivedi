@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Boards done. Back to coding.
+
+Starting work on a bigger project to push my skills further...focusing on architecture, UI, and real-world usability.
+Will share commits and progress regularly.
+
+Topic - An easy but complex app for my Jee lectures available at one single place
 <!--
 **pranav-pramod-dwivedi/pranav-pramod-dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
