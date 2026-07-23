@@ -6,6 +6,12 @@ Starting work on a bigger project to push my skills further...focusing on archit
 Will share commits and progress regularly.
 
 
+TO-DOs
+
+- Make a ar cricket simulator similar to metashot
+- update my repos [obviously]
+- update my readme.md(s) readable 
+- no recharge based comminication app [tunneling + chat bridged on low usage]
 
 <!--
 **pranav-pramod-dwivedi/pranav-pramod-dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
