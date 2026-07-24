@@ -5,8 +5,8 @@ Back to coding.
 Starting work on a bigger project to push my skills further...focusing on architecture, UI, and real-world usability.
 Will share commits and progress regularly.
 
-CURRENT PROJECT - EDTECH APP INSPIRED BY PW
-STATUS - prototype is already uploaded as JEE-PRANAV, the w-app is ready and will be released on 25th of july 2026
+- CURRENT PROJECT - EDTECH APP INSPIRED BY PW
+ - STATUS - prototype is already uploaded as JEE-PRANAV, the w-app is ready and will be released on 25th of july 2026
 
 TO-DOs
 
